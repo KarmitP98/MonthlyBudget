@@ -1,0 +1,7 @@
+Monthly Summary!
+
+Item Name: Milk...	Item Price: 2.0$***
+Item Name: Cookies...	Item Price: 3.0$***
+Item Name: Apple...	Item Price: 2.0$***
+Item Name: Frehsco...	Item Price: 25.99$***
+Total: 32.989998***
