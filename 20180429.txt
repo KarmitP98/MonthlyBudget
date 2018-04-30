@@ -1,3 +1,0 @@
-Item Name:,A,Item Price:,1.0$***
-Item Name:,B,Item Price:,2.0$***
-Item Name:,C,Item Price:,3.0$***
